@@ -1,46 +1,42 @@
+<h1 align="center">🌀 Airstack</h1>
+<p align="center">
+  A sleek developer dashboard concept built with <strong>HTML</strong> + <strong>Tailwind CSS</strong>.<br/>
+  Designed for practice, crafted for clean UI vibes.
+</p>
+
+<p align="center">
+  <img src="https://your-screenshot-url.png" alt="Airstack UI Screenshot" width="800"/>
+</p>
 
 ---
 
-## 📸 Live Preview
+## ✨ Overview
 
-🌍 Check out the demo:  
-👉 [https://yourusername.github.io/airstack](https://yourusername.github.io/airstack)
+**Airstack** is a fictional platform UI built as a personal design challenge to sharpen skills in responsive layouts, component structure, and modern frontend styling — all without using a JavaScript framework.
+
+> ⚠️ *This is a static mockup — not a functional app.*
+
+---
+![Screenshot 2025-06-22 101247](https://github.com/user-attachments/assets/4f40d3f0-89c9-47e6-aa38-28ab5aacc00e)
+![Screenshot 2025-06-22 101147](https://github.com/user-attachments/assets/d5544c69-f54b-44bd-80ec-dbee73c45f01)
+
+
+
+## 🚀 Features
+
+- 🎨 **Tailwind CSS utility-first styling**
+- 🌘 **Dark mode by default**
+- 📱 **Responsive layout**
+- 🧱 Sidebar navigation & status badges
+- 🧪 Inspired by real dev tools like **Vercel**, **Tailwind UI**, and **Supabase**
 
 ---
 
-## 🧠 Lessons Learned
+## 🛠 Tech Stack
 
-- Practiced modern UI layout thinking
-- Learned better use of spacing, flex/grid systems
-- Got comfortable working with Tailwind’s utility classes
-- Improved file structuring for clean deployments
-
----
-
-## 🙌 Acknowledgements
-
-Big thanks to inspiration from:
-- [Vercel](https://vercel.com)
-- [Tailwind UI](https://tailwindui.com)
-- [Supabase](https://supabase.com)
+- **HTML5**
+- **Tailwind CSS** (via CDN or built)
+- **Deployed with GitHub Pages**
 
 ---
 
-## 🪄 Want to Use It?
-
-This is public and open — feel free to fork it, remix it, or just study the code.
-
----
-
-## 📫 Connect
-
-Let’s connect on [LinkedIn](https://linkedin.com/in/yourusername) or shoot me a DM if you’re building something similar!
-
----
-
-> *“Design is intelligence made visible.” – Alina Wheeler*
-![Screenshot 2025-06-22 101147](https://github.com/user-attachments/assets/14423a18-3d17-47cc-a9e3-ef31a6e51ad6)
-> ![Screenshot 2025-06-22 101247](https://github.com/user-attachments/assets/4371a681-3bf8-435f-95d1-af6ba5ea52d0)
-
-
-![Screenshot 2025-06-22 101247](https://github.com/user-attachments/assets/f2a5d6b6-25e4-4cbb-a9b4-ea63936d05be)
