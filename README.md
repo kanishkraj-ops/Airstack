@@ -4,10 +4,6 @@
   Designed for practice, crafted for clean UI vibes.
 </p>
 
-<p align="center">
-  <img src="https://your-screenshot-url.png" alt="Airstack UI Screenshot" width="800"/>
-</p>
-
 ---
 
 ## ✨ Overview
@@ -25,7 +21,6 @@
 ## 🚀 Features
 
 - 🎨 **Tailwind CSS utility-first styling**
-- 🌘 **Dark mode by default**
 - 📱 **Responsive layout**
 - 🧱 Sidebar navigation & status badges
 - 🧪 Inspired by real dev tools like **Vercel**, **Tailwind UI**, and **Supabase**
